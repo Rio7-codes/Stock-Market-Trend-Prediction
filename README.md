@@ -33,8 +33,7 @@ Stock-Market-Trend-Prediction/
 │ └── package.json  
 │  
 ├── Backend/ # FastAPI backend  
-│ ├── models/ # Trained ML model & scaler  
-│ ├── static/ # Temporary plot images  
+│ ├── models/ # Trained ML model & scaler    
 │ ├── main.py # Core backend logic  
 │ └── requirements.txt  
 │  
