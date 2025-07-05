@@ -21,8 +21,8 @@ A full-stack web application that predicts stock prices using machine learning, 
 |   React.js   |    FastAPI     | Decision Tree Regressor |      yfinance       |
 | Tailwind CSS |  Python 3.10+  |      Scikit-learn       | Plotly + Matplotlib |
 |     Vite     |    Pydantic    |         Joblib          |     QR Code API     |
-(Plenty of ML Models have been used with Decision Tree providing maximum Accuracy)
 
+(Plenty of ML Models have been used with Decision Tree providing maximum Accuracy)
 ---
 
 ## 📂 Folder Structure
