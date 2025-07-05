@@ -27,21 +27,20 @@ A full-stack web application that predicts stock prices using machine learning, 
 ---
 
 ## 📂 Folder Structure
-Stock-Market-Trend-Prediction/
-│
-├── Frontend/ # React frontend
-│ ├── public/
-│ ├── src/
-│ └── package.json
-│
-├── Backend/ # FastAPI backend
-│ ├── models/ # Trained ML model & scaler
-│ ├── static/ # Temporary plot images
-│ ├── main.py # Core backend logic
-│ └── requirements.txt
-│
-└── README.md
-
+Stock-Market-Trend-Prediction/  
+│  
+├── Frontend/ # React frontend  
+│ ├── public/  
+│ ├── src/  
+│ └── package.json  
+│  
+├── Backend/ # FastAPI backend  
+│ ├── models/ # Trained ML model & scaler  
+│ ├── static/ # Temporary plot images  
+│ ├── main.py # Core backend logic  
+│ └── requirements.txt  
+│  
+└── README.md  
 
 ---
 
