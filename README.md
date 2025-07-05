@@ -69,8 +69,12 @@ bash
 `uvicorn main:app --reload`
 Runs on http://127.0.0.1:8000 
 
+---
+
 📌 Author
 Made with ❤️ by Souhardya Mridha [@Rio7-codes]
+
+---
 
 📃 License
 This project is for educational/demo purposes. No commercial use without permission.
