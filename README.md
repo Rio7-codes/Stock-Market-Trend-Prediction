@@ -22,8 +22,6 @@ A full-stack web application that predicts stock prices using machine learning, 
 | Tailwind CSS |  Python 3.10+  |      Scikit-learn       | Plotly + Matplotlib |
 |     Vite     |    Pydantic    |         Joblib          |     QR Code API     |
 
-[Plenty of ML Models have been used with Decision Tree providing maximum Accuracy]
-
 ---
 
 ## 📂 Folder Structure
@@ -49,6 +47,7 @@ Stock-Market-Trend-Prediction/
   - Trained on historical stock data
   - Features: Open, High, Low, Close, Volume, MA10, RSI
   - Used `scikit-learn`, `joblib`, `MinMaxScaler`
+[Plenty of ML Models have been used with Decision Tree providing maximum Accuracy]
 
 ---
 
