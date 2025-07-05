@@ -55,17 +55,19 @@ Stock-Market-Trend-Prediction/
 ## ⚙️ How to Run Locally
 
 ### Frontend (React)
-bash  
-`cd Frontend`  
-`npm install`  
-`npm run dev`  
+```bash  
+cd Frontend  
+npm install  
+npm run dev
+```
 Runs on http://localhost:5173  
 
 ### Backend (FastAPI)
-bash  
-`cd Backend`  
-`.\.venv\Scripts\activate`  
-`uvicorn main:app --reload`  
+```bash  
+cd Backend  
+.\.venv\Scripts\activate  
+uvicorn main:app --reload
+```
 Runs on http://127.0.0.1:8000   
 
 ---
