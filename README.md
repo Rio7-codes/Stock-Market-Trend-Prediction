@@ -46,7 +46,8 @@ Stock-Market-Trend-Prediction/
 - **Decision Tree Regressor**
   - Trained on historical stock data
   - Features: Open, High, Low, Close, Volume, MA10, RSI
-  - Used `scikit-learn`, `joblib`, `MinMaxScaler`  
+  - Used `scikit-learn`, `joblib`, `MinMaxScaler`
+  
 [Plenty of ML Models have been used with Decision Tree providing maximum Accuracy]
 
 ---
