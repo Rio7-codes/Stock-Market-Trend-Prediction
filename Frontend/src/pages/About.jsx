@@ -62,7 +62,7 @@ export default function AboutPage() {
       </main>
 
       <footer className="mt-20 mb-30 text-gray-600 text-xs text-center">
-        © 2025 Souhardya Mridha | Snehashree Nayak | Debaranjan Lenka | Rishav Raj | Sreyashi Dash | Poonam Parida • Built using FastAPI, React and Python ML tools
+        © 2025 Souhardya Mridha • Built using FastAPI, React and Python ML tools
       </footer>
     </div>
   );
