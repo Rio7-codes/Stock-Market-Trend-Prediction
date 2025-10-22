@@ -1,9 +1,11 @@
 # Stock Market Trend Prediction 📈
+
 A full-stack web application that predicts stock prices using machine learning, built with **React** (frontend) and **FastAPI** (backend). It fetches real-time stock data via **yfinance**, processes it using a **Decision Tree** model (as it provides maximum accuracy), and visualizes predicted trends interactively.
 
 ---
 
 ## 🚀 Features
+
 - 🔍 **Ticker Search** – Search from 100+ popular stock tickers (AAPL, GOOGL, TSLA, etc.)
 - 📆 **Days Selection** – Predict future stock prices for 1 to 365 days
 - 📊 **Dual Charts** – See:
@@ -16,6 +18,7 @@ A full-stack web application that predicts stock prices using machine learning, 
 ---
 
 ## 🖥️ Tech Stack
+
 |   Frontend   |    Backend     |        ML Models        |       Others        |
 |--------------|----------------|-------------------------|---------------------|
 |   React.js   |    FastAPI     | Decision Tree Regressor |      yfinance       |
@@ -25,6 +28,7 @@ A full-stack web application that predicts stock prices using machine learning, 
 ---
 
 ## 📂 Folder Structure
+
 Stock-Market-Trend-Prediction/  
 │  
 ├── Frontend/ # React frontend  
@@ -42,6 +46,7 @@ Stock-Market-Trend-Prediction/
 ---
 
 ## 🧠 ML Model Used
+
 - **Decision Tree Regressor**
   - Trained on historical stock data
   - Features: Open, High, Low, Close, Volume, MA10, RSI
@@ -72,8 +77,9 @@ Runs on http://127.0.0.1:8000
 ---
 
 ## 📃 License
-MIT License
 
+MIT License
+```pgsql
 Copyright (c) 2025 Rio7-codes
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -93,10 +99,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
 
 ---
 
 ## 📌 Author
+
 Made with ❤️ by Souhardya Mridha [@Rio7-codes]
 
 ---
